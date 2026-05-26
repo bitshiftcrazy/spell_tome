@@ -181,10 +181,10 @@ fabrication/gerbers/
 ## Color inspo
 
 <p align="center">
-  <img src="pics/spell_tome_top_render_black.jpg" width="24%">
-  <img src="pics/spell_tome_top_render_blue.jpg" width="24%">
-  <img src="pics/spell_tome_top_render_pink.jpg" width="24%">
-  <img src="pics/spell_tome_top_render_purple.jpg" width="24%">
+  <img src="pics/spell_tome_top_render_black.png" width="24%">
+  <img src="pics/spell_tome_top_render_blue.png" width="24%">
+  <img src="pics/spell_tome_top_render_pink.png" width="24%">
+  <img src="pics/spell_tome_top_render_purple.png" width="24%">
 </p>
 
 ## License
