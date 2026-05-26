@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "seeed_xiao") (type "KiCad") (uri "${KIPRJMOD}/libraries/footprints/seeed_xiao.pretty") (options "") (descr ""))
+	(lib (name "tome") (type "KiCad") (uri "${KIPRJMOD}/libraries/footprints/tome.pretty") (options "") (descr ""))
+)

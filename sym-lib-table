@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "seeed_xiao") (type "KiCad") (uri "${KIPRJMOD}/libraries/symbols/seeed_xiao.kicad_sym") (options "") (descr ""))
+	(lib (name "tome") (type "KiCad") (uri "${KIPRJMOD}/libraries/symbols/tome.kicad_sym") (options "") (descr ""))
+)

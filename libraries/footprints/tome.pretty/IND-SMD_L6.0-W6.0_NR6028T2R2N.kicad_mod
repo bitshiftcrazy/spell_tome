@@ -1,0 +1,224 @@
+(footprint "IND-SMD_L6.0-W6.0_NR6028T2R2N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "L1"
+		(at 0 -4.027 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "bee5f081-a18e-4217-a61c-0fb180f42766")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L"
+		(at 0 4.027 0)
+		(layer "F.Fab")
+		(uuid "17670e20-a602-489c-873e-d6980d9227d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a739d394-022d-43e1-8727-5475afd8ed6a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fdb44144-2850-4ac9-b6fa-9e6853a97305")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC_3DModel_Q" "03d12098f35d44198d5cb15aa2c89431"
+		(at 0 0 0)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "0321a4fb-073b-46b3-883d-c44c4ded1f12")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC_3D_Size" "6.002 6"
+		(at 0 0 0)
+		(layer "Cmts.User")
+		(hide yes)
+		(uuid "e8d28e06-e7e1-4f63-907a-602e02e32e9a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
+	(sheetname "/")
+	(sheetfile "tome_pcb.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.209 -3.2)
+		(end 1.191 -3.2)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "39a3c98c-1b47-425e-b233-082bbc7cb75e")
+	)
+	(fp_line
+		(start -1.209 3.2)
+		(end 1.191 3.2)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ccd51ace-47a6-45a3-847e-0d01ba00ac6e")
+	)
+	(fp_rect
+		(start -3.625 -3.2795)
+		(end 3.625 3.301433)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "80836c4d-5f0c-4831-9338-63dafc2e1a92")
+	)
+	(fp_line
+		(start -3 -3.004)
+		(end 3 -3.004)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "5c8ade5b-f21f-496f-b0d5-58c48fc87234")
+	)
+	(fp_line
+		(start -3 2.996)
+		(end -3 -3.004)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b9f12fa5-fa19-4497-a893-4d3dd8c617c8")
+	)
+	(fp_line
+		(start 3 -3.004)
+		(end 3 2.996)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "f4ac71db-eec5-43d8-a20a-d7d596d10fa5")
+	)
+	(fp_line
+		(start 3 2.996)
+		(end -3 2.996)
+		(stroke
+			(width 0.051)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "677d5e9c-aa2b-42ce-8b52-3d65aaeac20b")
+	)
+	(fp_poly
+		(pts
+			(xy -2.944567 2.973039) (xy -2.977039 2.940567) (xy -3.022961 2.940567) (xy -3.055433 2.973039) (xy -3.055433 3.018961)
+			(xy -3.022961 3.051433) (xy -2.977039 3.051433) (xy -2.944567 3.018961)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "b06428ed-b42d-46a1-96fd-0bc87e576f31")
+	)
+	(fp_poly
+		(pts
+			(xy -3 -2.5) (xy -1.65 -2.5) (xy -1.65 2.5) (xy -3 2.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "User.1")
+		(uuid "b89220d3-9665-4194-a809-b596dc9759fe")
+	)
+	(fp_poly
+		(pts
+			(xy 1.65 -2.5) (xy 3 -2.5) (xy 3 2.5) (xy 1.65 2.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "User.1")
+		(uuid "b202326b-6d08-498c-b9ea-2e64642091ba")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "30a3ac13-599d-4361-8782-d74f4c0419f3")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.325 0)
+		(size 2.1 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c4a9a315-a2e7-4c63-8734-9cfa60eee7ac")
+	)
+	(pad "2" smd rect
+		(at 2.325 0)
+		(size 2.1 6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a67ac726-ae54-492c-8bd7-d5c20002b135")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/EASYEDA_MODELS/IND-SMD_L6.0-W6.0_NR6028T2R2N.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
