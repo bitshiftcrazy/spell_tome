@@ -187,6 +187,9 @@ fabrication/gerbers/
   <img src="pics/spell_tome_top_render_purple.png" width="24%">
 </p>
 
+## Further Reading
+- [Hackster: This Open Source RP2040 Development Board Looks Like a Magic Spellbook](https://www.hackster.io/news/this-open-source-rp2040-development-board-looks-like-a-magic-spellbook-52a614f74b81)
+
 ## License
 
 Hardware design files are licensed under the CERN Open Hardware Licence
